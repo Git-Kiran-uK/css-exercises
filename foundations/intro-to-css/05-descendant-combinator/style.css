@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+}
+
+div p{
+    background-color: yellow;
+    color: red;
+    font-size: 1.125rem;
+    text-align: center;
+}
