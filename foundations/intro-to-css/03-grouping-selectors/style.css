@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    font-family: Helvetica, 'Times New Roman', 'sans-serif';
+}
+
+.btn{
+    font-size: 1.75rem;
+    font-family: inherit;
+    border: none;
+    border-radius: 5px;
+    padding: 1em 2em;
+    cursor: pointer;
+}
+
+.btn-first{
+    background-color: black;
+    color: white;
+}
+
+.btn-second{
+    background-color: yellow;
+}
