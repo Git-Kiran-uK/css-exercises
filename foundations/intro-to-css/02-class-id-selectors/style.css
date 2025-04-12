@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+}
+
+p{
+    background-color: lightpink;
+    font-family: Verdana, "DejaVu Sans", serif;
+}
+
+p:nth-of-type(2){
+    font-size: 1.5rem;
+}
+
+#div-1{
+    color: blue;
+    font-size: 2rem;
+}
+
+#div-2{
+    background-color: lightgreen;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
